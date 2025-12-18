@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Result Management System - Backend API
 
 Production-grade backend for a Result Management System built with Node.js, Express, and MongoDB. Features role-based authentication, student management, marks entry, automatic result calculation, and PDF marksheet generation.
@@ -414,3 +415,6 @@ Contributions, issues, and feature requests are welcome!
 ## ⭐ Show your support
 
 Give a ⭐️ if this project helped you!
+=======
+# RGBackend
+>>>>>>> 7be42f8c1ddb09aabaf09e4e6d5e7c7a077ba0d7
